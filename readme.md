@@ -6,7 +6,7 @@ just download repo as a zip or clone
 
  1. run `ParadoxdbViewer.exe`
  2. select `.db` file
- 3. got to **export** tab
+ 3. go to **export** tab
  4. click on any **Save as ...** button
  5. enter preferred format name in the `license` field of opened dialog
  6. hit **close** button
