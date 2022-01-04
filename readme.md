@@ -12,3 +12,5 @@ just download repo as a zip or clone
  6. hit **close** button
  7. chose folder to save in
  8. go check result
+
+ ![usage-animated](Assets/paradox-db-viewer-usage.gif)
