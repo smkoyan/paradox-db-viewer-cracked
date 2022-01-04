@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?adf version="1.0"?>
+<adf>
+    <prospect>
+        <requestdate>{$date}</requestdate>
+        <vehicle>
+            <year>{$year}</year>
+            <make>{$make}</make>
+            <model>{$model}</model>
+        </vehicle>
+        <customer>
+            <contact>
+                <name part="first">{$first}</name>
+                <name part="last">{$last}</name>
+                <phone>{$phone}</phone>
+                <email>{$email}</email>
+            </contact>
+        </customer>
+        <vendor>
+            <contact>
+                <name part="full">{$dealer}</name>
+            </contact>
+        </vendor>
+    </prospect>
+</adf>

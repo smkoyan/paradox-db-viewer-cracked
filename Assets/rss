@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>{$title}</title>
+        <link>{$link}</link>
+        <description>{$description}</description>
+        <language>en</language>
+        <copyright>{$copyright}</copyright>   
+        <ttl>60</ttl>
+        <lastBuildDate>{$lastBuildDate}</lastBuildDate> 
+        <generator>www.whiterocksoftware.com</generator>
+        <atom:link href="{$link}" rel="self" type="application/rss+xml" />
+			{$items}
+		</channel></rss>
